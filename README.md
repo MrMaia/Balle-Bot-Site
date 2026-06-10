@@ -6,7 +6,7 @@ Landing page de apresentação do **Balle Bot**, um bot de moderação para comu
 
 ## Preview
 
-![Preview do site](./assets/preview.png)
+![Preview do site](./preview.png)
 
 ---
 
